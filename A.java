@@ -4,4 +4,5 @@ public class A{
   String kjs = "김준서ㅇㄴㅁㅇ";
   String test = "test";
   double dd = 10.9;
+  double aaa = 10.3;
 }
